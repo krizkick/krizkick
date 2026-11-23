@@ -1,16 +1,24 @@
-## Hi there 👋
+# Kristoffer Hansen
 
-<!--
-**krizkick/krizkick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm originally from Alta and currently live in Oslo, where I study programming and system architecture at the University of Oslo.
 
-Here are some ideas to get you started:
+My background as an electrician from 2018–2026 has shaped my interest in projects where hardware and software meet. I'm particularly interested in ESP32 and embedded systems, Home Assistant, self-hosting on Raspberry Pi, and infrastructure as code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology
+
+- Python
+- MicroPython
+- HTML
+- JavaScript
+- Docker
+- [MISSING: additional technologies or skills]
+
+## Projects
+
+- [boat-tracker](https://github.com/krizkick/boat-tracker) — ESP32-based boat tracking on an e-paper display
+- [pyscript-hangman](https://github.com/krizkick/pyscript-hangman) — A Hangman game built with PyScript
+
+## Contact
+
+- GitHub: [@krizkick](https://github.com/krizkick)
+- LinkedIn: [Kristoffer Hansen](https://www.linkedin.com/in/kristoffer-hans1/)
