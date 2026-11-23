@@ -11,7 +11,6 @@ My background as an electrician from 2018–2026 has shaped my interest in proje
 - HTML
 - JavaScript
 - Docker
-- [MISSING: additional technologies or skills]
 
 ## Projects
 
